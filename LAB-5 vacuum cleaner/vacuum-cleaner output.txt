@@ -1,0 +1,23 @@
+Enter Location of Vacuum 	
+B
+Enter status of B	
+1
+Enter status of other room 	
+1
+Initial Location Condition{'A': '1', 'B': '1'}
+Vacuum is placed in location B
+Location B is Dirty.
+COST for CLEANING 1
+Location B has been Cleaned.
+Location A is Dirty.
+Moving LEFT to the Location A. 
+COST for moving LEFT2
+COST for SUCK 3
+Location A has been Cleaned.
+GOAL STATE: 
+{'A': '0', 'B': '0'}
+Performance Measurement: 3
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
