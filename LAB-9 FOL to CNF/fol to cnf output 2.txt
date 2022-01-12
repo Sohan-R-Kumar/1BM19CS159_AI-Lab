@@ -1,0 +1,8 @@
+Enter FOL:
+∀x[∃z[loves(x,z)]]
+The CNF form of the given FOL is: 
+[loves(x,B(x))]
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

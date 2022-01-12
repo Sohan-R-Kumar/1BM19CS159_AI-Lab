@@ -1,0 +1,28 @@
+Enter rule :  
+(~qv~pvr)^(~q^p)^q
+enter query :  
+r
+**********Truth Table Reference**********
+kb alpha
+**********
+False True
+----------
+False False
+----------
+False True
+----------
+False False
+----------
+False True
+----------
+False False
+----------
+False True
+----------
+False False
+----------
+Knowledge base entails query
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

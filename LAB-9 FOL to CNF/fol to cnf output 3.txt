@@ -1,0 +1,8 @@
+Enter FOL:
+[american(x)^weapon(y)^sells(x,y,z)^hostile(z)] => criminal(x)
+The CNF form of the given FOL is: 
+[~american(x)V~weapon(y)V~sells(x,y,z)V~hostile(z)] V criminal(x)
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

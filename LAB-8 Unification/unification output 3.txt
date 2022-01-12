@@ -1,0 +1,10 @@
+Enter the first expression
+knows(John,x)
+Enter the second expression
+knows(y,Mother(y))
+The substitutions are:
+['John / y', 'Mother(y) / x']
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

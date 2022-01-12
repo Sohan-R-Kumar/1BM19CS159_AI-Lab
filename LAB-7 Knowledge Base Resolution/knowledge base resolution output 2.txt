@@ -1,0 +1,30 @@
+Enter the kb:
+PvQ PvR ~PvR RvS Rv~Q ~Sv~Q
+Enter the query:
+R
+
+Step	|Clause	|Derivation	
+------------------------------
+ 1.	| PvQ	| Given.	
+ 2.	| PvR	| Given.	
+ 3.	| ~PvR	| Given.	
+ 4.	| RvS	| Given.	
+ 5.	| Rv~Q	| Given.	
+ 6.	| ~Sv~Q	| Given.	
+ 7.	| ~R	| Negated conclusion.	
+ 8.	| QvR	| Resolved from PvQ and ~PvR.	
+ 9.	| Pv~S	| Resolved from PvQ and ~Sv~Q.	
+ 10.	| P	| Resolved from PvR and ~R.	
+ 11.	| ~P	| Resolved from ~PvR and ~R.	
+ 12.	| Rv~S	| Resolved from ~PvR and Pv~S.	
+ 13.	| R	| Resolved from ~PvR and P.	
+ 14.	| S	| Resolved from RvS and ~R.	
+ 15.	| ~Q	| Resolved from Rv~Q and ~R.	
+ 16.	| Q	| Resolved from ~R and QvR.	
+ 17.	| ~S	| Resolved from ~R and Rv~S.	
+ 18.	| 	| Resolved ~R and R to ~RvR, which is in turn null.                             
+A contradiction is found when ~R is assumed as true. Hence, R is true.	
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

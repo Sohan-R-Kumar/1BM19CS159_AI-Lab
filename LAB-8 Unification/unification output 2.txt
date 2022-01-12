@@ -1,0 +1,11 @@
+Enter the first expression
+Student(x)
+Enter the second expression
+Teacher(Rose)
+Cannot be unified as the predicates do not match!
+The substitutions are:
+[]
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

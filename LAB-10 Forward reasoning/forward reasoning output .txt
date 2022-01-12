@@ -1,0 +1,26 @@
+Enter KB: (enter e to exit)
+missile(x)=>weapons(x)
+missile(M1)
+enemy(x,America)=>hostile(x)
+american(West)
+enemy(Nono,America)
+owns(Nono,M1)
+misile(x)&owns(Nono,x)=>sells(West,x,Nono)
+american(x)&weapons(y)&sells(x,y,z)&hostile(z)=>criminals(x)
+e
+Enter Query:
+criminal(x)
+Querying criminal(x):
+All facts: 
+	1. hostile(Nono)
+	2. sells(West,M1,Nono)
+	3. american(West)
+	4. owns(Nono,M1)
+	5. weapons(M1)
+	6. enemy(Nono,America)
+	7. missile(M1)
+	8. criminals(West)
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

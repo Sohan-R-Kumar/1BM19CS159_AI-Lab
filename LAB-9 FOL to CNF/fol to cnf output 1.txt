@@ -1,0 +1,8 @@
+Enter FOL:
+∀x food(x) => likes(Johns, x)
+The CNF form of the given FOL is: 
+~ food(A) V likes(Johns, A)
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

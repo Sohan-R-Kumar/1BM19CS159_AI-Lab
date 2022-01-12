@@ -1,0 +1,16 @@
+Enter rule :  
+(pvq)^(~rvp)
+enter query :  
+p^r
+**********Truth Table Reference**********
+kb alpha
+**********
+True True
+----------
+True False
+----------
+Knowledge base does not entail query
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

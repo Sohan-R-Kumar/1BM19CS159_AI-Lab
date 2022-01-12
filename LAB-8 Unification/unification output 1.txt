@@ -1,0 +1,10 @@
+Enter the first expression
+knows(f(x),y)
+Enter the second expression
+knows(J,John)
+The substitutions are:
+['J / f(x)', 'John / y']
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
